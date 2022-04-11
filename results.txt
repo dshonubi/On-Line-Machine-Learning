@@ -1,0 +1,6 @@
+# HMM
+
+beta18-10: 0.008888242107310878 # the value beta(10) at time 18
+gamma10-11: 0.08515330275815526 # the value gamma(11) at time 10
+
+COMMENTS # Any comments you would like to add should go below this line.
